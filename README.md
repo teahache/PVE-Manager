@@ -1,7 +1,7 @@
 # PVE Manager for Proxmox
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" height="96" alt="PVE Manager Logo" />
+  <img src="https://play-lh.googleusercontent.com/rLkNU-18vEuEhpsgJ-NM83lYCu44Oab-Nbs79tQ-o6q4cy5EDwZDKrRLSb2M_48wFcv5rBM_R3NfxhR6lwmV3DU=w416-h235-rw" width="416" height="203" alt="PVE Manager Logo" />
   <h3>A modern, fast, and privacy-focused Android client for Proxmox VE &amp; Proxmox Backup Server (PBS).</h3>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.pvemanager.proxmox">

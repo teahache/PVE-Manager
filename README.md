@@ -120,9 +120,9 @@ Direct standalone APKs are published with each release in the [GitHub Releases](
 
 ---
 
-## 🔒 Security & Privacy
+## 🔒 Security, Privacy & Terms
 
-For full details regarding how permissions and data are handled, please review our [Privacy Policy](PRIVACY_POLICY.md).
+For full details regarding terms of use and how permissions and data are handled, please review our [Privacy Policy](PRIVACY_POLICY.md) and [Terms of Service](TERMS_OF_SERVICE.md).
 
 * **Zero Personal Telemetry:** The app never collects personal information or sends server data to the developer.
 * **Optional Diagnostics:** Anonymized crash reports (Firebase Crashlytics) and anonymous telemetry can be completely disabled at any time in the app's **Options** screen.

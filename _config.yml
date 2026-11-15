@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
-title: PVE Manager
+title: PVE Manager - Proxmox VE & PBS Android Client
 description: Modern, privacy-focused Android client for Proxmox VE & Proxmox Backup Server
+url: "https://teahache.github.io"
+baseurl: "/PVE-Manager"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

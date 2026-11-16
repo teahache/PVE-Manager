@@ -10,7 +10,7 @@
   </p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.pvemanager.proxmox">
-      <img src="https://img.shields.io/badge/Google%20Play-v1.5.8-orange?logo=google-play&amp;logoColor=white" alt="Google Play Version" />
+      <img src="https://img.shields.io/badge/Google%20Play-v1.5.9-orange?logo=google-play&amp;logoColor=white" alt="Google Play Version" />
     </a>
     <img src="https://img.shields.io/badge/Platform-Android%207.0%2B%20(API%2024%2B)-brightgreen?logo=android&amp;logoColor=white" alt="Android Version" />
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&amp;logoColor=white" alt="Kotlin" />
